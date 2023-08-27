@@ -1,0 +1,26 @@
+{
+  "name": "odin-todo",
+  "version": "1.0.0",
+  "description": "TOP Todo list project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ImCrimP/odin-todo.git"
+  },
+  "author": "Peter Mountin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ImCrimP/odin-todo/issues"
+  },
+  "homepage": "https://github.com/ImCrimP/odin-todo#readme",
+  "devDependencies": {
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
+  },
+  "dependencies": {
+    "date-fns": "^2.30.0"
+  }
+}
